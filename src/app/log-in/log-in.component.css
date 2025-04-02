@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f2f5;
+}
+
+.login-container {
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #5f6368;
+}
+
+input {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+input:focus {
+    outline: none;
+    border-color: white;
+    box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.2);
+}
+
+button {
+    width: 100%;
+    padding: 0.8rem;
+    background-color: violet;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+button:hover {
+    background-color: #1557b0;
+}
+
+.login-link {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.login-link a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.login-link a:hover {
+    cursor: pointer; /* Changes cursor to hand */
+    transition: all 0.3s ease-in-out; /* Smooth transition for extra effects */
+    transform: scale(1.1); /* Slightly enlarges the link */
+    color: #ff00ff; /* Neon magenta for that freaky vibe */
+    text-shadow: 0 0 5px rgba(255, 0, 255, 0.8); /* Glowing effect */
+}

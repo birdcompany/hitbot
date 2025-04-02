@@ -1,0 +1,9 @@
+<div class="container" >
+    @for (item of itemList; track item) {
+        <item-card [object]="item" />
+    }
+    @empty {
+        <h1>No items found 😩</h1>
+    }
+</div>
+

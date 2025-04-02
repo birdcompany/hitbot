@@ -1,0 +1,106 @@
+{
+    "item_id": "48036",
+    "sales_taxes": [{}],
+    "tax_amount": { "code": "EUR", "minor_units": 26, "decimals": 2 },
+    "price_excluding_taxes": { "code": "EUR", "minor_units": 480, "decimals": 2 },
+    "price_including_taxes": { "code": "EUR", "minor_units": 480, "decimals": 2 },
+    "value_excluding_taxes": { "code": "EUR", "minor_units": 1200, "decimals": 2 },
+    "value_including_taxes": { "code": "EUR", "minor_units": 1200, "decimals": 2 },
+    "taxation_policy": "PRICE_INCLUDES_TAXES",
+    "show_sales_taxes": false,
+    "item_price": { "code": "EUR", "minor_units": 480, "decimals": 2 },
+    "item_value": { "code": "EUR", "minor_units": 1200, "decimals": 2 },
+    "cover_picture": {
+      "picture_id": "83156659252858560",
+      "current_url": "https://images.tgtg.ninja/itembulkimport/cover/6a1f699b-8b2c-4527-84cd-b14ac9e138a7.jpg",
+      "is_automatically_created": false
+    },
+    "logo_picture": {
+      "picture_id": "83156658212698240",
+      "current_url": "https://images.tgtg.ninja/itembulkimport/logo/5e94f16f-05b9-4cc3-b2f8-60f76d240c41_thumb.png",
+      "is_automatically_created": false
+    },
+    "name": "Überraschungstüte",
+    "description": "Bei Theurer warten verschiedene leckere Backwaren darauf, von dir gerettet zu werden. Freu dich über Brot und Brötchen, süße Teilchen oder Snacks.",
+    "subtitle": "",
+    "can_user_supply_packaging": false,
+    "packaging_option": "BAG_ALLOWED",
+    "collection_info": "",
+    "diet_categories": [],
+    "item_category": "BAKED_GOODS",
+    "buffet": false,
+    "positive_rating_reasons": [
+      "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+      "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+      "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+      "POSITIVE_FEEDBACK_GREAT_VALUE",
+      "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+      "POSITIVE_FEEDBACK_GREAT_VARIETY"
+    ],
+    "average_overall_rating": {
+      "average_overall_rating": 4.766666666666667,
+      "rating_count": 180,
+      "month_count": 6
+    },
+    "price_info": {
+      "type": "gradual_lower_price",
+      "is_recurring": true,
+      "is_personal": false
+    },
+    "favorite_count": 0
+  },
+  store: {
+    store_id: "46394",
+    store_name: "Bäckerei Theurer",
+    branch: "Schwetzingerstadt",
+    description: "💚 Wir machen hier bei Theurer gerade alles neu: neues Brot, neue Optik, neuer Spirit, neue Geschäftsleitung.",
+    tax_identifier: "DE323390682",
+    website: "",
+    store_location: { address: [Object], location: [Object] },
+    logo_picture: {
+      picture_id: "82075",
+      current_url: "https://images.tgtg.ninja/store/760d3811-6aa8-4649-b6bb-ea0eb57a0bc9.jpg",
+      is_automatically_created: false
+    },
+    store_time_zone: "Europe/Berlin",
+    hidden: false,
+    favorite_count: 0,
+    distance: 5560.738030297858,
+    cover_picture: {
+      picture_id: "83156659252858560",
+      current_url: "https://images.tgtg.ninja/itembulkimport/cover/6a1f699b-8b2c-4527-84cd-b14ac9e138a7.jpg",
+      is_automatically_created: false
+    },
+    is_manufacturer: false
+  },
+  display_name: "Bäckerei Theurer - Schwetzingerstadt (Überraschungstüte)",
+  pickup_interval: { start: "2025-02-01T12:30:00Z", end: "2025-02-01T13:00:00Z" },
+  pickup_location: {
+    address: {
+      country: [Object],
+      address_line: "Schwetzinger Str. 144, 68165 Mannheim, Deutschland",
+      city: "",
+      postal_code: ""
+    },
+    location: { longitude: 8.4808957, latitude: 49.4753973 }
+  },
+  purchase_end: "2025-02-01T12:30:00Z",
+  items_available: 3,
+  distance: 5560.738030297858,
+  favorite: true,
+  in_sales_window: true,
+  new_item: false,
+  item_type: "MAGIC_BAG",
+  matches_filters: true,
+  item_tags: [
+    {
+      id: "X_ITEMS_LEFT",
+      short_text: "3 left",
+      long_text: "3 left"
+    }
+  ],
+  item_card: {
+    item_card_type: "DYNAMIC_PRICE",
+    item_card_text: "Dynamic price"
+  }
+}
